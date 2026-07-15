@@ -1,3 +1,5 @@
+# 插播一下,有个shifter想拉我转去特雷森,所以失联一两天 -- 7/15
+
 # 赛马娘技能评分计算器
 
 > 基于 Bwiki (wiki.biligame.com) 与 wiki (umamusu.wiki) 数据源的赛马娘技能评分计算器
@@ -39,3 +41,5 @@ dp01背包 详解见: [bilibili.com/video/BV1pY4y1J7na](https://bilibili.com/vid
 - 该项目完整部署示例: [luwara.top/uma/](https://luwara.top/uma/)
 
 ---
+
+啥意思 打开项目发现文件都没了 只留个md
